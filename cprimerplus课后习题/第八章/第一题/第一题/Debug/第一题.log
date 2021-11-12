@@ -1,0 +1,6 @@
+﻿  源.cpp
+d:\code\第八章\第一题\第一题\源.cpp(19): warning C4129: “^”: 不可识别的字符转义序列
+d:\code\第八章\第一题\第一题\源.cpp(19): warning C4474: printf: 格式字符串中传递的参数太多
+  d:\code\第八章\第一题\第一题\源.cpp(19): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+  第一题.vcxproj -> D:\code\第八章\第一题\Debug\第一题.exe
+  第一题.vcxproj -> D:\code\第八章\第一题\Debug\第一题.pdb (Full PDB)

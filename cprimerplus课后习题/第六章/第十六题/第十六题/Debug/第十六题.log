@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\code\第六章\第十六题\第十六题\源.cpp(9): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+  第十六题.vcxproj -> D:\code\第六章\第十六题\Debug\第十六题.exe
+  第十六题.vcxproj -> D:\code\第六章\第十六题\Debug\第十六题.pdb (Full PDB)

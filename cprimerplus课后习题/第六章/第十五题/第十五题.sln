@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "第十五题", "第十五题\第十五题.vcxproj", "{16D5A314-9C35-4237-8E20-E363E959C712}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16D5A314-9C35-4237-8E20-E363E959C712}.Debug|x64.ActiveCfg = Debug|x64
+		{16D5A314-9C35-4237-8E20-E363E959C712}.Debug|x64.Build.0 = Debug|x64
+		{16D5A314-9C35-4237-8E20-E363E959C712}.Debug|x86.ActiveCfg = Debug|Win32
+		{16D5A314-9C35-4237-8E20-E363E959C712}.Debug|x86.Build.0 = Debug|Win32
+		{16D5A314-9C35-4237-8E20-E363E959C712}.Release|x64.ActiveCfg = Release|x64
+		{16D5A314-9C35-4237-8E20-E363E959C712}.Release|x64.Build.0 = Release|x64
+		{16D5A314-9C35-4237-8E20-E363E959C712}.Release|x86.ActiveCfg = Release|Win32
+		{16D5A314-9C35-4237-8E20-E363E959C712}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

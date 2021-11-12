@@ -1,0 +1,5 @@
+﻿  源.cpp
+d:\code\第十章\十二题\十二题\源.cpp(15): warning C4838: 从“double”转换到“const float”需要收缩转换
+d:\code\第十章\十二题\十二题\源.cpp(15): warning C4305: “初始化”: 从“double”到“const float”截断
+  十二题.vcxproj -> D:\code\第十章\十二题\Debug\十二题.exe
+  十二题.vcxproj -> D:\code\第十章\十二题\Debug\十二题.pdb (Full PDB)

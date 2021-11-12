@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\code\第六章\第十七题\第十七题\源.cpp(8): warning C4305: “*=”: 从“double”到“float”截断
+  第十七题.vcxproj -> D:\code\第六章\第十七题\Debug\第十七题.exe
+  第十七题.vcxproj -> D:\code\第六章\第十七题\Debug\第十七题.pdb (Full PDB)
