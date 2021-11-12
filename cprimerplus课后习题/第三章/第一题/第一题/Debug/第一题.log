@@ -1,0 +1,5 @@
+﻿  源.cpp
+d:\c_plus_plus课后复习题\第二章\第一题\第一题\源.cpp(5): warning C4305: “初始化”: 从“double”到“float”截断
+d:\c_plus_plus课后复习题\第二章\第一题\第一题\源.cpp(6): warning C4305: “初始化”: 从“double”到“float”截断
+  第一题.vcxproj -> D:\c_plus_plus课后复习题\第二章\第一题\Debug\第一题.exe
+  第一题.vcxproj -> D:\c_plus_plus课后复习题\第二章\第一题\Debug\第一题.pdb (Full PDB)

@@ -1,0 +1,5 @@
+﻿  源.cpp
+d:\code\第十章\test\test\源.cpp(7): warning C4101: “day”: 未引用的局部变量
+d:\code\第十章\test\test\源.cpp(6): warning C4101: “ch”: 未引用的局部变量
+  test.vcxproj -> D:\code\第十章\test\Debug\test.exe
+  test.vcxproj -> D:\code\第十章\test\Debug\test.pdb (Full PDB)

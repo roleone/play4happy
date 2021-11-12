@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\c_plus_plus课后复习题\第二章\示例\示例\源.cpp(11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  示例.vcxproj -> D:\c_plus_plus课后复习题\第二章\示例\Debug\示例.exe
+  示例.vcxproj -> D:\c_plus_plus课后复习题\第二章\示例\Debug\示例.pdb (Full PDB)

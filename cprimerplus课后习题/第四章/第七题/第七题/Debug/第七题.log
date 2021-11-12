@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\c_plus_plus课后复习题\第四章\第七题\第七题\源.cpp(7): warning C4305: “=”: 从“double”到“float”截断
+  第七题.vcxproj -> D:\c_plus_plus课后复习题\第四章\第七题\Debug\第七题.exe
+  第七题.vcxproj -> D:\c_plus_plus课后复习题\第四章\第七题\Debug\第七题.pdb (Full PDB)
